@@ -1,0 +1,18 @@
+Package: NonlinearRegression
+Type: Package
+Title: Ferramentas para a analise de experimentos com regressao nao linear para experimentos com e sem repeticao
+Version: 0.0.1
+Authors@R: 
+    person(given = "Alcinei Mistico",
+           family = "Azevedo",
+           role = c("aut", "cre"),
+           email = "alcineimistico@hotmail.com",
+           comment = c(ORCID="0000-0001-5196-0851"))
+Description:Pacotes para o ajuste de modelos de regressao nao linear para experimentos sem repeticao, no delineamento inteiramente casualizado ou em blocos casualizados .
+Imports: ggplot2, MASS, rstudioapi
+License: GPL-3
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.1.1
+Language: pt-BR
+NeedsCompilation: no
