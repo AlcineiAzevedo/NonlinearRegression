@@ -24,6 +24,7 @@
 #' Ajuste2=fit_regression(Data =DadosMED,model = 7,start = c(a=30,b=5,c=0.1),design=1)
 #' plot_regression(Ajuste2,plot=7,xlabel = "Dias",ylabel = "Altura (cm)")
 #'
+#'CompareModels(list(Ajuste1,Ajuste2))
 
 #' @export
 
