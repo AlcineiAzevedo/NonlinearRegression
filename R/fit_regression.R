@@ -436,5 +436,5 @@ Summary=summary(ajuste)
 #   }
 
 
-   return(list(Anova=Anova,Summary=Summary, Avaliador=Avaliador,Means=Dmed, Preditos=Preditos))
+   return(list(Model=modelo,Anova=Anova,Summary=Summary, Avaliador=Avaliador,Means=Dmed, Preditos=Preditos))
 }
